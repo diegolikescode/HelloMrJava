@@ -1,3 +1,3 @@
 # JAVA EXERCISES
 
-exercises from ``https://exercism.org/tracks/java``
+exercises from various sauces.
